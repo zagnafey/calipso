@@ -57,7 +57,7 @@
         "jsonschema": "~0.4.0"
     },
     "optionalDependencies": {
-        "bcrypt": "0.7.x",
+        "bcrypt": "1.0.3",
         "imagemagick": "0.1.x"
     },
     "scripts": {
